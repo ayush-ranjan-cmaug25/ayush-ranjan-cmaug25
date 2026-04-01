@@ -1,6 +1,6 @@
 # Hi, I'm Ayush Ranjan 👋
 
-I build reliable software using Java, .NET, and React. I hold a B.Tech in Computer Science from VIT and recently finished my PG-DAC from CDAC.
+I build reliable software. I hold a B.Tech in Computer Science from VIT and recently finished my PG-DAC from CDAC.
 
 ## 🚀 Featured Projects
 
@@ -10,6 +10,9 @@ A gamified peer-to-peer learning platform featuring a time-banking economy and W
 **[Online Job Application Portal](https://github.com/ayush-ranjan-cmaug25/Online_Job_Application_Portal)**
 A full-stack job application system built from the ground up using React, Node.js, and MySQL.
 
+**[Online Insurance Portal](https://github.com/ayush-ranjan-cmaug25/Online-Insurance-Portal)**
+A full-stack web application for managing insurance policies and processing claims. I built this with secure user authentication and a dedicated admin dashboard using React, Spring Boot, and MySQL.
+
 ## 💼 Experience & Leadership
 
 * **Communication Lead @ CDAC:** Directed a team of 10 people to manage daily communication and keep our project workflow on track.
@@ -18,10 +21,10 @@ A full-stack job application system built from the ground up using React, Node.j
 ## 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 <!--
